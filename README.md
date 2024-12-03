@@ -11,6 +11,6 @@ First mock project using next.js + prisma
 - react hook form
 - typescript
 
-# exoected take aways
+# expected take aways
 - learn how to setup and create an app using next js
-- 
+- f around and find out
